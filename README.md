@@ -42,4 +42,4 @@ $ conda env create -f environment.yml
 
 ## Support and Contact
 
-If you're having issues or would like to request new features, reach out to me at [@akshitbhalla13](https://goo.gl/kMku1B) on Twitter.
+If you're having issues or would like to request new features, reach out to me at [@akshitbhalla13](https://goo.gl/kMku1B) on Twitter. a
